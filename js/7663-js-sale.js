@@ -146,5 +146,3 @@ if (WL) {
   {
   document.getElementById('mint_button').onclick = mint;
   }
-
-connect();
